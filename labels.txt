@@ -1,0 +1,2 @@
+0 Hostil
+1 Pacifico
